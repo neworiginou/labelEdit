@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>610B7059-E8FB-463D-9CE7-52081799F076</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SHLabelEditDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FA653B592DDE0B76F6CDB7D844953F64823AB1C9</key>
+		<string>https://github.com/shshy/SHLabelEdit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SHLabelEditDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA653B592DDE0B76F6CDB7D844953F64823AB1C9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shshy/SHLabelEdit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA653B592DDE0B76F6CDB7D844953F64823AB1C9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA653B592DDE0B76F6CDB7D844953F64823AB1C9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SHLabelEdit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
